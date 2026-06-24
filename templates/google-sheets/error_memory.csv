@@ -1,0 +1,4 @@
+error_id,source,error_type,description,correction_rule,example_bad,example_good,active,created_at
+err-001,content,blind_box_wording,ข้อความคอนเทนต์สื่อว่าสินค้า blind box สามารถเลือกลายได้,ต้องระบุว่าสินค้าเป็นแบบสุ่มและไม่สามารถเลือกลายได้,เลือกลายที่ชอบได้เลยจาก Sonny Angel,สินค้าเป็นแบบสุ่ม ไม่สามารถเลือกลายได้,TRUE,2026-06-16T11:40:00.000Z
+err-002,promotion,margin_missing,เสนอส่วนลดตรงทั้งที่ไม่มีข้อมูลต้นทุนหรือ margin,หากไม่มี margin ให้เปลี่ยนเป็น bundle หรือ free gift,ลดทันที 20 เปอร์เซ็นต์,เสนอของแถมหรือ bundle แทนส่วนลดตรง,TRUE,2026-06-16T11:45:00.000Z
+err-003,image,unboxing_disabled,พยายามทำคอนเทนต์เปิดกล่องหรือภาพ opened-box,ห้ามทำ unboxing ทุกกรณี ให้เปลี่ยนเป็น showcase comparison หรือ tips จากภาพสินค้าจริง,เสนอคอนเทนต์เปิดกล่องสินค้า,ทำ showcase จากภาพสินค้าจริงแทน,TRUE,2026-06-16T11:50:00.000Z

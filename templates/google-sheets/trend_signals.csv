@@ -1,0 +1,2 @@
+trend_id,keyword,category,related_sku,trend_level,source,note,start_date,end_date,active,created_at,updated_at
+trend-example-monchhichi,Monchhichi,,MCC-KEY-MINI-BOY,high,owner,ตัวอย่าง: ถ้าช่วงนี้ Monchhichi เป็นกระแสให้เปิด active เป็น TRUE,2026-06-22,2026-07-22,FALSE,2026-06-22T00:00:00.000Z,2026-06-22T00:00:00.000Z

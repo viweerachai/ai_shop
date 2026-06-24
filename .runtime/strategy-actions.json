@@ -1,0 +1,289 @@
+{
+  "statuses": {
+    "review-chopper": "completed",
+    "promo-gate-shared": "in_progress",
+    "hero-sonny": "in_progress"
+  },
+  "customActions": [],
+  "tasks": [
+    {
+      "taskId": "task_458297ada28f4054",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "owner": "Marketing",
+      "status": "open",
+      "source": "sales",
+      "detail": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ",
+      "sku": "SA-ANIMAL-V4",
+      "createdAt": "2026-06-17T03:52:51.057Z",
+      "updatedAt": "2026-06-17T03:52:51.058Z"
+    },
+    {
+      "taskId": "task_47b11b54d95c4fd1",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "owner": "Marketing",
+      "status": "done",
+      "source": "sales",
+      "detail": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ",
+      "sku": "SA-ANIMAL-V4",
+      "createdAt": "2026-06-16T17:20:30.300Z",
+      "updatedAt": "2026-06-16T17:20:31.216Z"
+    },
+    {
+      "taskId": "task_5033c3560a9e4680",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "owner": "Marketing",
+      "status": "done",
+      "source": "sales",
+      "detail": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ",
+      "sku": "SA-ANIMAL-V4",
+      "createdAt": "2026-06-16T17:17:08.602Z",
+      "updatedAt": "2026-06-16T17:20:22.335Z"
+    },
+    {
+      "taskId": "task_6ec7075c62534210",
+      "actionId": "promo-gate-shared",
+      "title": "คัดโปรโมชั่นที่พร้อมจริงก่อนสื่อสาร",
+      "owner": "Manager",
+      "status": "open",
+      "source": "promotion",
+      "detail": "โปรโมชั่นที่ยังไม่อนุมัติห้ามโพสต์ ต้องเช็ก margin และกฎร้านก่อน",
+      "createdAt": "2026-06-16T17:17:08.601Z",
+      "updatedAt": "2026-06-16T17:17:08.601Z"
+    }
+  ],
+  "history": [
+    {
+      "historyId": "history_b5b8cfa1cf474820",
+      "actionId": "marketing-focus-OPC-TCG-ST14-3D2Y",
+      "title": "ดัน OPC-TCG-ST14-3D2Y เป็น hero content ของรอบนี้",
+      "transition": "reset",
+      "fromStatus": "ready",
+      "toStatus": "none",
+      "createdAt": "2026-06-21T17:10:15.944Z",
+      "note": "เป็นสินค้าเข้าใหม่ • มีของพร้อมขายแบบชิ้นเดียว/จำนวนน้อย • มี asset พอสำหรับคอนเทนต์"
+    },
+    {
+      "historyId": "history_9d3f199a560a44b5",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "transition": "started",
+      "fromStatus": "ready",
+      "toStatus": "in_progress",
+      "createdAt": "2026-06-17T03:52:51.058Z",
+      "note": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ"
+    },
+    {
+      "historyId": "history_d414f02781194fba",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "transition": "reset",
+      "fromStatus": "completed",
+      "toStatus": "none",
+      "createdAt": "2026-06-16T17:20:34.274Z",
+      "note": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ"
+    },
+    {
+      "historyId": "history_315765422da741a3",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "transition": "completed",
+      "fromStatus": "ready",
+      "toStatus": "completed",
+      "createdAt": "2026-06-16T17:20:32.768Z",
+      "note": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ"
+    },
+    {
+      "historyId": "history_3c4a20892d194b43",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "transition": "reset",
+      "fromStatus": "completed",
+      "toStatus": "none",
+      "createdAt": "2026-06-16T17:20:31.757Z",
+      "note": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ"
+    },
+    {
+      "historyId": "history_02e68ab535624515",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "transition": "completed",
+      "fromStatus": "in_progress",
+      "toStatus": "completed",
+      "createdAt": "2026-06-16T17:20:31.216Z",
+      "note": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ"
+    },
+    {
+      "historyId": "history_f4f34044feb547aa",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "transition": "started",
+      "fromStatus": "ready",
+      "toStatus": "in_progress",
+      "createdAt": "2026-06-16T17:20:30.300Z",
+      "note": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ"
+    },
+    {
+      "historyId": "history_d315b34059f6425a",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "transition": "reset",
+      "fromStatus": "completed",
+      "toStatus": "none",
+      "createdAt": "2026-06-16T17:20:29.637Z",
+      "note": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ"
+    },
+    {
+      "historyId": "history_c27f4bf961ce4bb2",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "transition": "completed",
+      "fromStatus": "ready",
+      "toStatus": "completed",
+      "createdAt": "2026-06-16T17:20:28.071Z",
+      "note": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ"
+    },
+    {
+      "historyId": "history_5c6198d9cae34cd5",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "transition": "reset",
+      "fromStatus": "completed",
+      "toStatus": "none",
+      "createdAt": "2026-06-16T17:20:27.150Z",
+      "note": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ"
+    },
+    {
+      "historyId": "history_a8c868dcb96747d5",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "transition": "completed",
+      "fromStatus": "ready",
+      "toStatus": "completed",
+      "createdAt": "2026-06-16T17:20:26.314Z",
+      "note": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ"
+    },
+    {
+      "historyId": "history_a5c48d34d23b4509",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "transition": "reset",
+      "fromStatus": "completed",
+      "toStatus": "none",
+      "createdAt": "2026-06-16T17:20:25.433Z",
+      "note": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ"
+    },
+    {
+      "historyId": "history_57563bc790a74a30",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "transition": "completed",
+      "fromStatus": "in_progress",
+      "toStatus": "completed",
+      "createdAt": "2026-06-16T17:20:22.336Z",
+      "note": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ"
+    },
+    {
+      "historyId": "history_f59e31e3a4e24b95",
+      "actionId": "hero-sonny",
+      "title": "ดัน SA-ANIMAL-V4 เป็น hero content วันนี้",
+      "transition": "started",
+      "fromStatus": "ready",
+      "toStatus": "in_progress",
+      "createdAt": "2026-06-16T17:17:08.602Z",
+      "note": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ"
+    },
+    {
+      "historyId": "history_e2d22fa2da984fbe",
+      "actionId": "promo-gate-shared",
+      "title": "คัดโปรโมชั่นที่พร้อมจริงก่อนสื่อสาร",
+      "transition": "started",
+      "fromStatus": "watch",
+      "toStatus": "in_progress",
+      "createdAt": "2026-06-16T17:17:08.601Z",
+      "note": "โปรโมชั่นที่ยังไม่อนุมัติห้ามโพสต์ ต้องเช็ก margin และกฎร้านก่อน"
+    },
+    {
+      "historyId": "history_2eaf590a83b74222",
+      "actionId": "review-chopper",
+      "title": "ใช้ OP-CHOPPER-01 ทำรีวิวและโพสต์ conversion",
+      "transition": "completed",
+      "fromStatus": "ready",
+      "toStatus": "completed",
+      "createdAt": "2026-06-16T17:15:35.362Z",
+      "note": "มี opened photo และ video พร้อมรองรับรีวิว"
+    }
+  ],
+  "artifacts": [
+    {
+      "artifactId": "artifact_6ccd7c0cc25d41f5",
+      "actionId": "hero-sonny",
+      "kind": "content_plan",
+      "status": "open",
+      "title": "Content Brief: Sonny Hero Launch",
+      "summary": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ",
+      "owner": "Marketing",
+      "sku": "SA-ANIMAL-V4",
+      "platform": "Facebook, Instagram",
+      "contentType": "new_arrival",
+      "createdAt": "2026-06-17T03:52:51.058Z",
+      "updatedAt": "2026-06-17T03:52:51.058Z"
+    },
+    {
+      "artifactId": "artifact_b2d14adf8e324244",
+      "actionId": "hero-sonny",
+      "kind": "content_plan",
+      "status": "done",
+      "title": "Content Brief: Sonny Hero Launch",
+      "summary": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ",
+      "owner": "Marketing",
+      "sku": "SA-ANIMAL-V4",
+      "platform": "Facebook, Instagram",
+      "contentType": "new_arrival",
+      "createdAt": "2026-06-16T17:20:30.300Z",
+      "updatedAt": "2026-06-16T17:20:31.216Z"
+    },
+    {
+      "artifactId": "artifact_ea95c21a6f1642fc",
+      "actionId": "hero-sonny",
+      "kind": "content_plan",
+      "status": "done",
+      "title": "Content Brief: Sonny Hero Launch",
+      "summary": "Top seller และเป็นสินค้าเข้าใหม่ จึงเหมาะเป็นหัวขบวนของแคมเปญ",
+      "owner": "Marketing",
+      "sku": "SA-ANIMAL-V4",
+      "platform": "Facebook, Instagram",
+      "contentType": "new_arrival",
+      "createdAt": "2026-06-16T17:17:08.602Z",
+      "updatedAt": "2026-06-16T17:20:22.335Z"
+    },
+    {
+      "artifactId": "artifact_a9f55e294b724a69",
+      "actionId": "promo-gate-shared",
+      "kind": "promotion_plan",
+      "status": "open",
+      "title": "Promotion Review Queue",
+      "summary": "โปรโมชั่นที่ยังไม่อนุมัติห้ามโพสต์ ต้องเช็ก margin และกฎร้านก่อน",
+      "owner": "Manager",
+      "promotionType": "bundle",
+      "createdAt": "2026-06-16T17:17:08.601Z",
+      "updatedAt": "2026-06-16T17:17:08.601Z"
+    },
+    {
+      "artifactId": "artifact_0c4d30e2d3ff48dd",
+      "actionId": "review-chopper",
+      "kind": "content_plan",
+      "status": "done",
+      "title": "Content Brief: Chopper Review Push",
+      "summary": "มี opened photo และ video พร้อมรองรับรีวิว",
+      "owner": "Marketing",
+      "sku": "OP-CHOPPER-01",
+      "platform": "Facebook, TikTok",
+      "contentType": "review",
+      "createdAt": "2026-06-16T17:15:35.362Z",
+      "updatedAt": "2026-06-16T17:15:35.362Z"
+    }
+  ]
+}

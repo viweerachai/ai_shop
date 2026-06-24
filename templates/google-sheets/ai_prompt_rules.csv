@@ -1,0 +1,6 @@
+rule_id,type,content,active,created_at,updated_at
+rule-001,ceo_rule,ให้สินค้าเข้าใหม่และสินค้าที่มีข้อมูลขายจริงชัดเจนขึ้นก่อนเมื่อจัดลำดับความสำคัญ,TRUE,2026-06-16T11:00:00.000Z,2026-06-16T11:00:00.000Z
+rule-002,content_rule,ห้ามใช้ถ้อยคำที่สื่อว่า blind box สามารถเลือกลายได้,TRUE,2026-06-16T11:05:00.000Z,2026-06-16T11:05:00.000Z
+rule-003,promotion_rule,ห้ามใช้ direct discount หากไม่มี cost_price หรือ margin_percent,TRUE,2026-06-16T11:10:00.000Z,2026-06-16T11:10:00.000Z
+rule-004,image_rule,ห้ามทำ unboxing หรือคอนเทนต์เปิดกล่องทุกกรณี ให้ใช้ showcase comparison หรือ tips จากภาพสินค้าจริงแทน,TRUE,2026-06-16T11:15:00.000Z,2026-06-16T11:15:00.000Z
+rule-005,ceo_rule,ร้านเป็นโมเดลซื้อมาขายไป/ของสะสม ให้ใช้ trend_signals เป็นสัญญาณหลักก่อนยอดขายย้อนหลัง จากนั้นคัดด้วย stock asset margin risk และ content freshness,TRUE,2026-06-22T00:00:00.000Z,2026-06-22T00:00:00.000Z

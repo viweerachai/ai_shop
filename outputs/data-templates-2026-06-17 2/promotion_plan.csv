@@ -1,0 +1,3 @@
+promo_id,promo_type,related_product_sku,bundle_sku,discount_type,discount_value,start_date,end_date,reason,expected_goal,risk_note,manager_note,status,created_by,created_at,approved_at
+PR-0001,bundle,SA-ANIMAL-V4,OP-CHOPPER-01,percent,10,2026-06-18,2026-06-20,"ดันสินค้าขายดีสองตัวพร้อมกัน","เพิ่มยอด conversion","ตรวจ margin ก่อนปล่อยจริง","รออนุมัติ",Marketing AI,2026-06-17T09:00:00+09:00,
+

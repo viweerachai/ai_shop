@@ -1,0 +1,6 @@
+order_id,ordered_at,sku,product_name,quantity,net_sales,channel,order_status,note
+order-20260601-001,2026-06-01T10:15:00.000Z,SA-ANIMAL-V4,Sonny Angel Animal Series Version 4,2,1180,Instagram,paid,ลูกค้าซื้อจากโพสต์เปิดตัว
+order-20260605-014,2026-06-05T14:20:00.000Z,OP-CHOPPER-01,One Piece Figure - Tony Tony Chopper,1,1290,Facebook,paid,มาจากโพสต์รีวิว
+order-20260608-021,2026-06-08T20:05:00.000Z,MOLLY-SPACE-01,Molly Space Adventure,1,1590,Shopee,paid,ขายจาก marketplace
+order-20260612-033,2026-06-12T12:45:00.000Z,GHIBLI-TOTORO-01,Totoro Mini Figure Set,2,3780,Facebook,paid,ลูกค้าสนใจจากโพสต์สะสม
+order-20260616-041,2026-06-16T18:10:00.000Z,OP-CHOPPER-01,One Piece Figure - Tony Tony Chopper,1,1290,TikTok,paid,ปิดการขายจากวิดีโอสินค้า

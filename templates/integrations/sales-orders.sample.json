@@ -1,0 +1,27 @@
+{
+  "sourceLabel": "shopify daily sync",
+  "rows": [
+    {
+      "order_id": "SO-20260617-001",
+      "ordered_at": "2026-06-17T09:15:00+09:00",
+      "sku": "SA-ANIMAL-V4",
+      "product_name": "Sonny Angel Animal Series Version 4",
+      "quantity": 2,
+      "net_sales": 2580,
+      "channel": "shopify",
+      "order_status": "paid",
+      "note": "sync sample"
+    },
+    {
+      "order_id": "SO-20260617-002",
+      "ordered_at": "2026-06-17T10:30:00+09:00",
+      "sku": "OP-CHOPPER-01",
+      "product_name": "One Piece Figure - Tony Tony Chopper",
+      "quantity": 1,
+      "net_sales": 1590,
+      "channel": "shopify",
+      "order_status": "paid",
+      "note": "sync sample"
+    }
+  ]
+}

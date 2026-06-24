@@ -1,0 +1,43 @@
+import { z } from "zod";
+
+export const contentPlanSchema = z.object({
+  content_id: z.string(),
+  week: z.string().default(""),
+  content_type: z.string().default(""),
+  theme: z.string().default(""),
+  related_product_sku: z.string().default(""),
+  target_platform: z.string().default(""),
+  status: z.string().default(""),
+  idea: z.string().default(""),
+  caption_draft: z.string().default(""),
+  hashtags: z.string().default(""),
+  writer_note: z.string().default(""),
+  content_key: z.string().default(""),
+  risk_note: z.string().default(""),
+  final_risk_level: z.enum(["low", "medium", "high"]).default("low"),
+  qa_status: z.string().default(""),
+  qa_score: z.coerce.number().default(0),
+  qa_issues: z.string().default(""),
+  qa_note: z.string().default(""),
+  manager_decision: z.string().default(""),
+  rewrite_instruction: z.string().default(""),
+  image_type: z.string().default(""),
+  image_prompt: z.string().default(""),
+  image_concept: z.string().default(""),
+  image_text: z.string().default(""),
+  image_note: z.string().default(""),
+  image_status: z.string().default(""),
+  publish_date: z.string().default(""),
+  owner_status: z.string().default(""),
+  created_at: z.string().default(""),
+  updated_at: z.string().default(""),
+  generated_image_url: z.string().default(""),
+  generated_image_file: z.string().default(""),
+  generated_image_provider: z.string().default(""),
+  generated_image_model: z.string().default(""),
+  generated_image_prompt: z.string().default(""),
+  generated_image_at: z.string().default(""),
+  image_approval_status: z.string().default("")
+});
+
+export type ContentPlan = z.infer<typeof contentPlanSchema>;

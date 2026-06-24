@@ -1,0 +1,5 @@
+promo_id,promo_type,related_product_sku,bundle_sku,discount_type,discount_value,start_date,end_date,reason,expected_goal,risk_note,manager_note,status,created_by,created_at,approved_at
+promo-demo-1,bundle,OP-CHOPPER-01,OP-LUFFY-01,,,2026-06-20,2026-06-22,สินค้ากลุ่ม One Piece มีความเกี่ยวข้องและสามารถเพิ่มยอดต่อบิล,เพิ่มมูลค่าต่อคำสั่งซื้อ,,รอเจ้าของร้านยืนยันสินค้าที่เข้าชุด,suggested,AI Sales Analyst,2026-06-16T11:20:00.000Z,
+promo-demo-2,freegift,MOLLY-SPACE-01,,,,,ไม่มีข้อมูล margin จึงหลีกเลี่ยงส่วนลดตรง,ช่วยขยับสินค้าสต็อกช้า,ต้องกำหนดต้นทุนของแถม,เลือกของแถมมูลค่าต่ำและให้เจ้าของร้านอนุมัติ,suggested,AI Sales Analyst,2026-06-16T11:25:00.000Z,
+promo-demo-3,discount,GHIBLI-TOTORO-01,,percent,10,2026-06-27,2026-06-29,มีข้อมูลต้นทุนและ margin รองรับ,เพิ่ม conversion ช่วงปลายเดือน,,ส่วนลดไม่เกินกรอบ margin,approved,AI Sales Analyst,2026-06-16T11:30:00.000Z,2026-06-16T12:00:00.000Z
+promo-demo-4,discount,MOLLY-SPACE-01,,percent,20,,,ทดลองเร่งยอด,ลดสต็อก,ไม่มีข้อมูลต้นทุน,ควรเปลี่ยนเป็น bundle หรือ free gift,hold,AI Sales Analyst,2026-06-16T11:35:00.000Z,

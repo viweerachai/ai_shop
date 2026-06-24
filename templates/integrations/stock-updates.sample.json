@@ -1,0 +1,17 @@
+{
+  "sourceLabel": "warehouse nightly sync",
+  "rows": [
+    {
+      "sku": "SA-ANIMAL-V4",
+      "stock": 18,
+      "cost_price": 420,
+      "selling_price": 1290
+    },
+    {
+      "sku": "OP-CHOPPER-01",
+      "stock": 7,
+      "cost_price": 690,
+      "selling_price": 1590
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+example_id,type,content,note,active,created_at
+example-001,content,"โพสต์เปิดตัวสินค้าใหม่โดยใช้ข้อมูลจริงสั้น กระชับ และระบุ guardrail ของ blind box ชัดเจน",ตัวอย่างคอนเทนต์ new arrival ที่ปลอดภัยสำหรับ blind box,TRUE,2026-06-16T12:00:00.000Z
+example-002,promotion,"โปรโมชั่นแบบ bundle สำหรับสินค้าที่มีความเกี่ยวข้องกันและมี stock พร้อมขาย",ใช้เป็นตัวอย่าง promotion ที่ควรส่ง owner approval,TRUE,2026-06-16T12:05:00.000Z
+example-003,qa,"ตัวอย่างงานที่ QA ผ่านเพราะไม่มีคำอ้างเกินจริงและมีเงื่อนไขสินค้าครบ",ใช้เป็น reference ตอนตรวจ content QA,TRUE,2026-06-16T12:10:00.000Z
